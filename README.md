@@ -9,13 +9,13 @@ Ten notatnik przechowując notatki ad hoc do śmierci notatki, albo przeglądark
 
 ## Instalacja
 
-- Skopiuj plik repozytorium jako zip.
+- Skopiuj plik repozytorium np jako zip, albo git clone.
 - Rozpakuj gdzieś na dysk archiwum
 - Następnie w pasek adresy wpisz to
   chrome://extensions
 - nastpenie po lewiej stronie - Załaduj rozpakowane
 
 <p align="center">
-  <img src="https://github.com/panpepson/notatnik-chrome-extension/blob/main/screenshot.jpg" width="450" height="600"/>
+  <img src="https://github.com/panpepson/notatnik-chrome-extension/blob/main/screenshot.jpg" width="100%" height="600"/>
 </p>
 
