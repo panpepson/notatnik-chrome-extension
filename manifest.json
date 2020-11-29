@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Notatnik",
+  "description": "Notatnik, creator: https://github.com/panpepson",
+  "version": "0.0.1",
+  "icons": { "128": "icon.png" },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  }
+}

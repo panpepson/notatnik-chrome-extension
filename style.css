@@ -1,0 +1,50 @@
+body {
+  background-color: #4b5053;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nota {
+  width: 600px;
+  height: 308px;
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  background: url(icon.png);
+  background-position: center center;
+  background-size: contain;
+  padding-right: 3px;
+  margin-right: 12px;
+}
+
+.icona {
+  width: 30px;
+  height: 30px;
+  margin-left: 15px;
+}
+
+.notatnik {
+  color: rgb(207, 200, 200);
+  font-size: 2em;
+  flex-grow: 3;
+}
+
+.info {
+  font-size: 1em;
+  color: white;
+}
+
+.info a {
+  color: white;
+  pointer-events: center;
+  cursor: help;
+}
+
+a:hover {
+  color: orange;
+}

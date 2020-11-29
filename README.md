@@ -1,2 +1,16 @@
-# notatnik-chrome-extension
-Notatnik dodatek dodatek do przeglądarek rodziny Chrome 
+# Notatnik
+
+## Uwaga!
+
+nic **WAŻNEGO** nie trzymaj w notatniku!  
+Ponieważ notatniki używa pamięci podręcznej Twojej przeglądarki.
+Mówiąc w skrócie - nie ma przeglądarki - nie ma notatek!
+Ten notatnik przechowując notatki ad hoc do śmierci notatki, albo przeglądarki - Miłego używania ツ
+
+## Instalacja
+
+- Skopiuj plik repozytorium jako zip.
+- Rozpakuj gdzieś na dysk archiwum
+- Następnie w pasek adresy wpisz to
+  chrome://extensions
+- nastpenie po lewiej stronie- Załaduj rozpakowane
