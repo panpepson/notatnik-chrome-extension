@@ -13,4 +13,4 @@ Ten notatnik przechowując notatki ad hoc do śmierci notatki, albo przeglądark
 - Rozpakuj gdzieś na dysk archiwum
 - Następnie w pasek adresy wpisz to
   chrome://extensions
-- nastpenie po lewiej stronie- Załaduj rozpakowane
+- nastpenie po lewiej stronie - Załaduj rozpakowane
