@@ -16,6 +16,6 @@ Ten notatnik przechowując notatki ad hoc do śmierci notatki, albo przeglądark
 - nastpenie po lewiej stronie - Załaduj rozpakowane
 
 <p align="center">
-  <img src="https://github.com/panpepson/notatnik-chrome-extension/screanshot.png" width="450" height="600"/>
+  <img src="https://github.com/panpepson/notatnik-chrome-extension/blob/main/screenshot.jpg" width="450" height="600"/>
 </p>
 
