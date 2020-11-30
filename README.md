@@ -11,7 +11,7 @@ Ten notatnik przechowując notatki ad hoc do śmierci notatki, albo przeglądark
 
 - Skopiuj plik repozytorium np jako zip, albo git clone,
 - Rozpakuj na dysk zawartosc archiwum, ale tak aby wszytko było w folderze - jeśli użyłeś gita pomiń ten punkt,
-- Następnie w pasek adresowym przegladarki wpisz [chrome://extensions](chrome://extensions),
+- Następnie w pasek adresowym przegladarki wpisz <chrome://extensions>
 - Nastpenie po lewiej stronie będzie taki napis - **Załaduj rozpakowane** - poradzisz sobie :) 
 
 - # Miłego używania ツ
