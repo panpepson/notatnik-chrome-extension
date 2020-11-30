@@ -5,9 +5,3 @@ window.onload = e => {
     localStorage.setItem("pepNota", getTextFromTextArea.value);
   };
 };
-
-// function myAlert() {
-//   alert(
-//     "Uwaga..! Nie trzymaj tu nic ważnego! Poniewż notatki zapiswywane są w pamięci podręcznej przegladarki - pepson"
-//   );
-// }
