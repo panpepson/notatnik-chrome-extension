@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Notatnik",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Notatnik, creator: https://github.com/panpepson",
   "permissions": ["storage"],
   "icons": {
