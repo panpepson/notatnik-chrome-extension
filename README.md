@@ -1,5 +1,8 @@
 # Notatnik
 
+WEB
+https://chrome.google.com/webstore/detail/notatnik/peemaifpdcjdlpkkocnfdcboofdjlmfk
+
 ## Uwaga!
 
 nic **WAŻNEGO** nie trzymaj w notatniku!
