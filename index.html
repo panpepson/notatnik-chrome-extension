@@ -10,14 +10,23 @@
     <div class="container">
       <div class="icona logo"></div>
       <div class="notatnik">Notatnik</div>
-      <div class="info">
-        <a href="https://telegra.ph/Notatnik-12-10" target="_blank">
-          <b>info</b></a
-        >
+      <div class="menu-wrapper">
+        <button id="menuBtn" class="menu-btn" aria-expanded="false" aria-haspopup="true" aria-label="Menu">⚙️</button>
+        <div id="menuDropdown" class="menu-dropdown" role="menu" hidden>
+          <a id="menuInfo" href="https://github.com/panpepson/notatnik-chrome-extension" target="_blank" role="menuitem" class="menu-item">
+            <b>info</b>
+          </a>
+          <button id="btnExport" role="menuitem" class="menu-item" title="Eksportuj do pliku .txt">Eksport</button>
+          <button id="btnImport" role="menuitem" class="menu-item" title="Importuj z pliku .txt">Import</button>
+          <input type="file" id="fileImport" accept=".txt" hidden />
+        </div>
       </div>
     </div>
     <div class="nota">
       <textarea cols="70" rows="20" id="Text" autofocus></textarea>
+      <div class="save-bar">
+        <span id="saveIndicator" class="save-indicator" aria-live="polite"></span>
+      </div>
     </div>
   </body>
 </html>

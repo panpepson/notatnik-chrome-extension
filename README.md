@@ -3,6 +3,22 @@
 WEB
 https://chrome.google.com/webstore/detail/notatnik/peemaifpdcjdlpkkocnfdcboofdjlmfk
 
+## 🆕 Nowe funkcje / New Features
+
+### PL
+- **Menu rozwijane** — jeden przycisk "Menu" z dostępem do: Info (GitHub), Eksport, Import
+- **Eksport do TXT** — pobiera notatkę jako plik `notatnik-YYYY-MM-DD.txt` (UTF-8)
+- **Import z TXT** — wczytuje plik tekstowy i nadpisuje aktualną notatkę (z potwierdzeniem)
+- **Wskaźnik zapisu** — status w prawym dolnym rogu: "Zapisywanie…" → "Zapisano ✓" / "Błąd!"
+- **Skrót Escape** — zamyka menu rozwijane
+
+### EN
+- **Dropdown menu** — single "Menu" button with: Info (GitHub), Export, Import
+- **Export to TXT** — downloads note as `notatnik-YYYY-MM-DD.txt` (UTF-8)
+- **Import from TXT** — loads text file and overwrites current note (with confirmation)
+- **Save indicator** — status in bottom-right: "Saving…" → "Saved ✓" / "Error!"
+- **Escape shortcut** — closes dropdown menu
+
 ## Uwaga!
 
 nic **WAŻNEGO** nie trzymaj w notatniku!
